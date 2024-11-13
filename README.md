@@ -1,2 +1,2 @@
 # Api-Golang
-RESTful web service API with Go and the Gin Web Framework 
+RESTful API server with two endpoints; a repository of data about vintage jazz records.
